@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1724893898 source:c:\users\analiafc\documents\proyectos de c\ac1-servidor-distribuidos\main.c
+	<stdio.h>
+	<winsock2.h>
+	<string.h>
+	<stdlib.h>
+	<stdbool.h>
+
